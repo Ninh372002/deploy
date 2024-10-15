@@ -1,2 +1,24 @@
-# DATN-NTT2024
-Đề tài: Xây dựng ứng dụng web dựa trên mô hình CNN Stardist để nhận dạng đối tượng
+# star-vision-ui
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
