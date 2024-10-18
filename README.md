@@ -26,6 +26,7 @@ Nếu đồ án sử dụng mã nguồn từ bên ngoài, hãy liệt kê nguồ
 > Ví dụ: "Logic xác thực đăng nhập được tham khảo từ Flask Documentation."  
 > Ví dụ: "Code phân trang được điều chỉnh từ GitHub User Repository."  
 > V.v.  
+  
 =======================================================================
 
 
